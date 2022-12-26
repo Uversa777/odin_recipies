@@ -1,1 +1,4 @@
 # odin_recipies
+This is my first project with <the odin project's> curriculum. I am building a recipe website. A recipe website is a website that contains a collection of recipes, which are detailed instructions for preparing a particular dish or dishes. These websites often have a search function that allows users to search for specific recipes or browse through categories such as type of cuisine, meal type, or ingredient. Some recipe websites also include user-submitted recipes, ratings and reviews, and other features such as meal planning and grocery lists. Many recipe websites also include accompanying photos or videos to help users visualize the finished dish. Recipe websites can be a helpful resource for home cooks looking for new ideas or inspiration for meals.
+
+Once i've completed this project, i would have demonstrated my skills in the use of html to declare the content of a webpage. This is a good way to review that i have learned. 
